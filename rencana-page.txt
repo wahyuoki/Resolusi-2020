@@ -1,0 +1,3 @@
+- Membaut game
+- Membuat portfolio
+- Membuat tampilan lebih atraktif
