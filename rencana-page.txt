@@ -1,0 +1,5 @@
+- Membaut game
+  - Game tic tac toe
+  - Game Quiz
+- Membuat portfolio
+- Membuat tampilan lebih atraktif
